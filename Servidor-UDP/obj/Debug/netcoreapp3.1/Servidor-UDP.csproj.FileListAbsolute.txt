@@ -1,0 +1,13 @@
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.deps.json
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.runtimeconfig.json
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.runtimeconfig.dev.json
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\bin\Debug\netcoreapp3.1\Servidor-UDP.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.csprojAssemblyReference.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.csproj.CoreCompileInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.AssemblyInfoInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.AssemblyInfo.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\UDP\Servidor-UDP\obj\Debug\netcoreapp3.1\Servidor-UDP.genruntimeconfig.cache
